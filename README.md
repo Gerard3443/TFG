@@ -1,6 +1,7 @@
 # Academy Awards: rewarding WHITENESS and MALENESS since 1928
 
-Short description or tagline for your project.
+Final College Thesis by Gerard Vinyes Sanchez.
 
 ## Prerequisites
-To run this project MongoDBCompass and python need to be installed.
+To run this project MongoDBCompass and Python need to be installed.
+
