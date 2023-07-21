@@ -1,0 +1,441 @@
+year_film,year_ceremony,ceremony,category,name,film,winner
+2001,2002,74,Actor in a Leading Role,Russell Crowe,A Beautiful Mind,True
+2001,2002,74,Actor in a Leading Role,Kevin Kline,Life as a House,False
+2001,2002,74,Actor in a Leading Role,Sean Penn,I Am Sam,False
+2001,2002,74,Actor in a Leading Role,Denzel Washington,Training Day,False
+2001,2002,74,Actor in a Leading Role,Tom Wilkinson,In the Bedroom,False
+2001,2002,74,Actress in a Leading Role,Halle Berry,Monster's Ball,True
+2001,2002,74,Actress in a Leading Role,Jennifer Connelly,A Beautiful Mind,False
+2001,2002,74,Actress in a Leading Role,Judy Dench,Iris,False
+2001,2002,74,Actress in a Leading Role,Sissy Spacek,In the Bedroom,False
+2001,2002,74,Actress in a Leading Role,Renée Zellweger,Bridget Jones's Diary,False
+2001,2002,74,Actor in a Supporting Role,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring,True
+2001,2002,74,Actor in a Supporting Role,Jim Broadbent,Iris,False
+2001,2002,74,Actor in a Supporting Role,Hayden Christensen,Life as a House,False
+2001,2002,74,Actor in a Supporting Role,Ethan Hawke,Training Day,False
+2001,2002,74,Actor in a Supporting Role,Ben Kingsley,Sexy Beast,False
+2001,2002,74,Actress in a Supporting Role,Helen Mirren,Gosford Park,True
+2001,2002,74,Actress in a Supporting Role,Cate Blanchett,Bandits,False
+2001,2002,74,Actress in a Supporting Role,Judi Dench,The Shipping News,False
+2001,2002,74,Actress in a Supporting Role,Cameron Diaz,Vanilla Sky,False
+2001,2002,74,Actress in a Supporting Role,Dakota Fanning,I Am Sam,False
+2002,2003,75,Actor in a Leading Role,Daniel Day-Lewis,Gangs of New York,True
+2002,2003,75,Actor in a Leading Role,Adrien Brody,The Pianist,False
+2002,2003,75,Actor in a Leading Role,Nicolas Cage,Adaptation,False
+2002,2003,75,Actor in a Leading Role,Richard Gere,Chicago,False
+2002,2003,75,Actor in a Leading Role,Jack Nicholson,About Schmidt,False
+2002,2003,75,Actress in a Leading Role,Renée Zellweger,Chicago,True
+2002,2003,75,Actress in a Leading Role,Salma Hayek,Frida,False
+2002,2003,75,Actress in a Leading Role,Nicole Kidman,The Hours,False
+2002,2003,75,Actress in a Leading Role,Diane Lane,Unfaithful,False
+2002,2003,75,Actress in a Leading Role,Julianne Moore,Far from Heaven,False
+2002,2003,75,Actor in a Supporting Role,Christopher Walken,Catch Me if You Can,True
+2002,2003,75,Actor in a Supporting Role,Chris Cooper,Adaptation,False
+2002,2003,75,Actor in a Supporting Role,Ed Harris,The Hours,False
+2002,2003,75,Actor in a Supporting Role,Alfred Molina,Frida,False
+2002,2003,75,Actor in a Supporting Role,Dennis Quaid,Far from Heaven,False
+2002,2003,75,Actress in a Supporting Role,Catherine Zeta-Jones,Chicago,True
+2002,2003,75,Actress in a Supporting Role,Kathy Bates,About Schmidt,False
+2002,2003,75,Actress in a Supporting Role,Julianne Moore,The Hours,False
+2002,2003,75,Actress in a Supporting Role,Michelle Pfeiffer,White Oleander,False
+2002,2003,75,Actress in a Supporting Role,Queen Latifah,Chicago,False
+2003,2004,76,Actor in a Leading Role,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl,True
+2003,2004,76,Actor in a Leading Role,Peter Dinklage,The Station Agent,False
+2003,2004,76,Actor in a Leading Role,Ben Kingsley,House of Sand and Fog,False
+2003,2004,76,Actor in a Leading Role,Bill Murray,Lost in Translation,False
+2003,2004,76,Actor in a Leading Role,Sean Penn,Mystic River,False
+2003,2004,76,Actress in a Leading Role,Charlize Theron,Monster,True
+2003,2004,76,Actress in a Leading Role,Patricia Clarkson,The Station Agent,False
+2003,2004,76,Actress in a Leading Role,Diane Keaton,Something's Gotta Give,False
+2003,2004,76,Actress in a Leading Role,Naomi Watts,21 Grams,False
+2003,2004,76,Actress in a Leading Role,Evan Rachel Wood,Thirteen,False
+2003,2004,76,Actor in a Supporting Role,Tim Robbins,Mystic River,True
+2003,2004,76,Actor in a Supporting Role,Alec Baldwin,The Cooler,False
+2003,2004,76,Actor in a Supporting Role,Chris Cooper,Seabiscuit,False
+2003,2004,76,Actor in a Supporting Role,Benicio del Toro,21 Grams,False
+2003,2004,76,Actor in a Supporting Role,Ken Watanabe,The Last Samurai,False
+2003,2004,76,Actress in a Supporting Role,Renée Zellweger,Cold Mountain,True
+2003,2004,76,Actress in a Supporting Role,Maria Bello,The Cooler,False
+2003,2004,76,Actress in a Supporting Role,Keisha Castle-Hughes,Whale Rider,False
+2003,2004,76,Actress in a Supporting Role,Patricia Clarkson,Pieces of April,False
+2003,2004,76,Actress in a Supporting Role,Holly Hunter,Thirteen,False
+2004,2005,77,Actor in a Leading Role,Jamie Foxx,Ray,True
+2004,2005,77,Actor in a Leading Role,Don Cheadle,Hotel Rwanda,False
+2004,2005,77,Actor in a Leading Role,Johnny Depp,Finding Neverland,False
+2004,2005,77,Actor in a Leading Role,Leonardo DiCaprio,The Aviator,False
+2004,2005,77,Actor in a Leading Role,Paul Giamatti,Sideways,False
+2004,2005,77,Actress in a Leading Role,Hilary Swank,Million Dollar Baby,True
+2004,2005,77,Actress in a Leading Role,Annette Bening,Being Julia,False
+2004,2005,77,Actress in a Leading Role,Catalina Sandino Moreno,Maria Full of Grace,False
+2004,2005,77,Actress in a Leading Role,Imelda Staunton,Vera Drake,False
+2004,2005,77,Actress in a Leading Role,Kate Winslet,Eternal SUnshine,False
+2004,2005,77,Actor in a Supporting Role,Morgan Freeman,Million Dollar Baby,True
+2004,2005,77,Actor in a Supporting Role,Thomas Haden Church,Sideways,False
+2004,2005,77,Actor in a Supporting Role,Jamie Foxx,Collateral,False
+2004,2005,77,Actor in a Supporting Role,James Garner,The Notebook,False
+2004,2005,77,Actor in a Supporting Role,Freddie Highmore,Finding Neverland,False
+2004,2005,77,Actress in a Supporting Role,Cate Blanchett,The Aviator,True
+2004,2005,77,Actress in a Supporting Role,Cloris Leachman,Spanglish,False
+2004,2005,77,Actress in a Supporting Role,Laura Linney,Kinsey,False
+2004,2005,77,Actress in a Supporting Role,Virginia Madsen,Sideways,False
+2004,2005,77,Actress in a Supporting Role,Sophie Okonedo,Hotel Rwanda,False
+2005,2006,78,Actor in a Leading Role,Philip Seymour Hoffman,Capote,True
+2005,2006,78,Actor in a Leading Role,Russell Crowe,Cinderella Man,False
+2005,2006,78,Actor in a Leading Role,Heath Ledger,Brokeback Mountain,False
+2005,2006,78,Actor in a Leading Role,Joaquin Phoenix,Walk the Line,False
+2005,2006,78,Actor in a Leading Role,David Strathairn,"Good Night, and Good Luck.",False
+2005,2006,78,Actress in a Leading Role,Reese Whiterspoon,Walk the Line,True
+2005,2006,78,Actress in a Leading Role,Judi Dench,Mrs Henderson Presents,False
+2005,2006,78,Actress in a Leading Role,Felicity Huffman,Transamerica,False
+2005,2006,78,Actress in a Leading Role,Charlize Theron,North Country,False
+2005,2006,78,Actress in a Leading Role,Ziyi Zhang,Memoirs of a Geisha,False
+2005,2006,78,Actor in a Supporting Role,Paul Giamatti,Cinderella Man,True
+2005,2006,78,Actor in a Supporting Role,Don Cheadle,Crash,False
+2005,2006,78,Actor in a Supporting Role,George Clooney,Syriana,False
+2005,2006,78,Actor in a Supporting Role,Matt Dillon,Crash,False
+2005,2006,78,Actor in a Supporting Role,Jake Gyllenhaal,Brokeback Mountain,False
+2005,2006,78,Actress in a Supporting Role,Rachel Weisz,The Constant Gardener,True
+2005,2006,78,Actress in a Supporting Role,Amy Adams,Junebug,False
+2005,2006,78,Actress in a Supporting Role,Catherine Keener,Capote,False
+2005,2006,78,Actress in a Supporting Role,Frances McDormand,North Country,False
+2005,2006,78,Actress in a Supporting Role,Michelle Williams,Brokeback Mountain,False
+2006,2007,79,Actor in a Leading Role,Forest Whitaker,The Last King of Scotland,True
+2006,2007,79,Actor in a Leading Role,Leonardo DiCaprio,Blood Diamond,False
+2006,2007,79,Actor in a Leading Role,Ryan Gosling,Half Nelson,False
+2006,2007,79,Actor in a Leading Role,Peter O'Toole,Venus,False
+2006,2007,79,Actor in a Leading Role,Will Smith,The Pursuit of Happyness,False
+2006,2007,79,Actress in a Leading Role,Helen Mirren,The Queen,True
+2006,2007,79,Actress in a Leading Role,Penélope Cruz,Volver,False
+2006,2007,79,Actress in a Leading Role,Judi Dench,Notes on a Scandal,False
+2006,2007,79,Actress in a Leading Role,Meryl Streep,The Devil Wears Prada,False
+2006,2007,79,Actress in a Leading Role,Kate Winslet,Little Children,False
+2006,2007,79,Actor in a Supporting Role,Eddie Murphy,Dreamgirls,True
+2006,2007,79,Actor in a Supporting Role,Alan Arkin,Little Miss Sunshine,False
+2006,2007,79,Actor in a Supporting Role,Leonardo DiCaprio,The Departed,False
+2006,2007,79,Actor in a Supporting Role,Jackie Earle Haley,Little Children,False
+2006,2007,79,Actor in a Supporting Role,Djimon Hounsou,Blood Diamond,False
+2006,2007,79,Actress in a Supporting Role,Jennifer Hudson,Dreamgirls,True
+2006,2007,79,Actress in a Supporting Role,Adriana Barraza,Babel,False
+2006,2007,79,Actress in a Supporting Role,Cate Blanchett,Notes on a Scandal,False
+2006,2007,79,Actress in a Supporting Role,Abigail Breslin,Little Miss Sunshine,False
+2006,2007,79,Actress in a Supporting Role,Rinko Kikuchi,Babel,False
+2007,2008,80,Actor in a Leading Role,Daniel Day-Lewis,There Will be Blood,True
+2007,2008,80,Actor in a Leading Role,George Clooney,Michael Clayton,False
+2007,2008,80,Actor in a Leading Role,Ryan Gosling,Lars and the Real Girl,False
+2007,2008,80,Actor in a Leading Role,Emile Hirsch,Into the Wild,False
+2007,2008,80,Actor in a Leading Role,Viggo Mortensen,Eastern Promises,False
+2007,2008,80,Actress in a Leading Role,Julie Christie,Away from Her,True
+2007,2008,80,Actress in a Leading Role,Cate Blanchett,Elizabeth: The Golden Age,False
+2007,2008,80,Actress in a Leading Role,Marion Cotillard,La Vie en Rose,False
+2007,2008,80,Actress in a Leading Role,Angelina Jolie,A Mighty Heart,False
+2007,2008,80,Actress in a Leading Role,Elliot Page,Juno,False
+2007,2008,80,Actor in a Supporting Role,Javier Bardem,No Country for Old Men,True
+2007,2008,80,Actor in a Supporting Role,Casey Affleck,The Assassination of Jesse James by the Coward Robert Ford,False
+2007,2008,80,Actor in a Supporting Role,Hal Holbrook,Into the Wild,False
+2007,2008,80,Actor in a Supporting Role,Tommy Lee Jones,No Country for Old Men,False
+2007,2008,80,Actor in a Supporting Role,Tom Wilkinson,Michael Clayton,False
+2007,2008,80,Actress in a Supporting Role,Ruby Dee,American Gangster,True
+2007,2008,80,Actress in a Supporting Role,Cate Blanchett,I'm Not There,False
+2007,2008,80,Actress in a Supporting Role,Catherine Keener,Into the Wild,False
+2007,2008,80,Actress in a Supporting Role,Amy Ryan,Gone Baby Gone,False
+2007,2008,80,Actress in a Supporting Role,Tilda Swinton,Michael Clayton,False
+2008,2009,81,Actor in a Leading Role,Sean Penn,Milk,True
+2008,2009,81,Actor in a Leading Role,Richard Jenkins,The Visitor,False
+2008,2009,81,Actor in a Leading Role,Frank Langella,Frost/Nixon,False
+2008,2009,81,Actor in a Leading Role,Brad Pitt,The Curious Case of Benjamin Button,False
+2008,2009,81,Actor in a Leading Role,Mickey Rourke,The Wrestler,False
+2008,2009,81,Actress in a Leading Role,Meryl Streep,Doubt,True
+2008,2009,81,Actress in a Leading Role,Anne Hathaway,Rachel Getting Married,False
+2008,2009,81,Actress in a Leading Role,Angelina Jolie,Changeling,False
+2008,2009,81,Actress in a Leading Role,Melissa Leo,Frozen River,False
+2008,2009,81,Actress in a Leading Role,Kate Winslet,Revolutionary Road,False
+2008,2009,81,Actor in a Supporting Role,Heath Ledger,The Dark Knight,True
+2008,2009,81,Actor in a Supporting Role,Josh Brolin,Milk,False
+2008,2009,81,Actor in a Supporting Role,Robert Downey Jr.,Tropic Thunder,False
+2008,2009,81,Actor in a Supporting Role,Philip Seymour Hoffman,Doubt,False
+2008,2009,81,Actor in a Supporting Role,Dev Patel,Slumdog Millionaire,False
+2008,2009,81,Actress in a Supporting Role,Kate Winslet,The Reader,True
+2008,2009,81,Actress in a Supporting Role,Amy Adams,Doubt,False
+2008,2009,81,Actress in a Supporting Role,Penélope Cruz,Vicky Cristina Barcelona,False
+2008,2009,81,Actress in a Supporting Role,Viola Davis,Doubt,False
+2008,2009,81,Actress in a Supporting Role,Taraji P. Henson,The Curious Case of Benjamin Button,False
+2009,2010,82,Actor in a Leading Role,Jeff Bridges,Crazy Heart,True
+2009,2010,82,Actor in a Leading Role,George Clooney,Up in the Air,False
+2009,2010,82,Actor in a Leading Role,Colin Firth,A Single Man,False
+2009,2010,82,Actor in a Leading Role,Morgan Freeman,Invictus,False
+2009,2010,82,Actor in a Leading Role,Jeremy Renner,The Hurt Locker,False
+2009,2010,82,Actress in a Leading Role,Sandra Bullock,The Blind Side,True
+2009,2010,82,Actress in a Leading Role,Helen Mirren,The Last Station,False
+2009,2010,82,Actress in a Leading Role,Carey Mulligan,An Education,False
+2009,2010,82,Actress in a Leading Role,Gabourey Sidibe,Precious: Based on the Novel 'Push' by Sapphire,False
+2009,2010,82,Actress in a Leading Role,Meryl Streep,Julie & Julia,False
+2009,2010,82,Actor in a Supporting Role,Christoph Waltz,Inglourious Basterds,True
+2009,2010,82,Actor in a Supporting Role,Matt Damon,Invictus,False
+2009,2010,82,Actor in a Supporting Role,Woody Harrelson,The Messenger,False
+2009,2010,82,Actor in a Supporting Role,Christopher Plummer,The Last Station,False
+2009,2010,82,Actor in a Supporting Role,Stanley Tucci,The Lovely Bones,False
+2009,2010,82,Actress in a Supporting Role,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire,True
+2009,2010,82,Actress in a Supporting Role,Penélope Cruz,Nine,False
+2009,2010,82,Actress in a Supporting Role,Vera Farmiga,Up in the Air,False
+2009,2010,82,Actress in a Supporting Role,Anna Kendrick,Up in the Air,False
+2009,2010,82,Actress in a Supporting Role,Diane Kruger,Inglourious Basterds,False
+2010,2011,83,Actor in a Leading Role,Colin Firth,The King's Speech,True
+2010,2011,83,Actor in a Leading Role,Jeff Bridges,True Grit,False
+2010,2011,83,Actor in a Leading Role,Robert Duvall,Get Low,False
+2010,2011,83,Actor in a Leading Role,Jesse Eisenberg,The Social Network,False
+2010,2011,83,Actor in a Leading Role,James Franco,127 Hours,False
+2010,2011,83,Actress in a Leading Role,Natalie Portman,Black Swan,True
+2010,2011,83,Actress in a Leading Role,Annette Bening,The Kids Are All Right,False
+2010,2011,83,Actress in a Leading Role,Nicole Kidman,Rabbit Hole,False
+2010,2011,83,Actress in a Leading Role,Jennifer Lawrence,Winter's Bone,False
+2010,2011,83,Actress in a Leading Role,Hilary Swank,Conviction,False
+2010,2011,83,Actor in a Supporting Role,Christian Bale,The Fighter,True
+2010,2011,83,Actor in a Supporting Role,John Hawkes,Winter's Bone,False
+2010,2011,83,Actor in a Supporting Role,Jeremy Renner,The Town,False
+2010,2011,83,Actor in a Supporting Role,Mark Ruffalo,The Kids Are All Right,False
+2010,2011,83,Actor in a Supporting Role,Geoffrey Rush,The King's Speech,False
+2010,2011,83,Actress in a Supporting Role,Melissa Leo,The Fighter,True
+2010,2011,83,Actress in a Supporting Role,Amy Adams,The Fighter,False
+2010,2011,83,Actress in a Supporting Role,Helena Bonham Carter,The King's Speech,False
+2010,2011,83,Actress in a Supporting Role,Mila Kunis,Black Swan,False
+2010,2011,83,Actress in a Supporting Role,Hailee Steinfeld,True Grit,False
+2011,2012,84,Actor in a Leading Role,Jean Dujardin,The Artist,True
+2011,2012,84,Actor in a Leading Role,Demián Bichir,A Better Life,False
+2011,2012,84,Actor in a Leading Role,George Clooney,The Descendants,False
+2011,2012,84,Actor in a Leading Role,Leonardo DiCaprio,J. Edgar,False
+2011,2012,84,Actor in a Leading Role,Brad Pitt,Moneyball,False
+2011,2012,84,Actress in a Leading Role,Viola Davis,The Help,True
+2011,2012,84,Actress in a Leading Role,Glenn Close,Albert Nobbs,False
+2011,2012,84,Actress in a Leading Role,Meryl Streep,The Iron Lady,False
+2011,2012,84,Actress in a Leading Role,Tilda Swinton,We Need to Talk About Kevin,False
+2011,2012,84,Actress in a Leading Role,Michelle Williams,My Week with Marilyn,False
+2011,2012,84,Actor in a Supporting Role,Christopher Plummer,Beginners,True
+2011,2012,84,Actor in a Supporting Role,Kenneth Branagh,My Week with Marilyn,False
+2011,2012,84,Actor in a Supporting Role,Arnie Hammer,J. Edgar,False
+2011,2012,84,Actor in a Supporting Role,Jonah Hill,Moneyball,False
+2011,2012,84,Actor in a Supporting Role,Nick Nolte,Warrior,False
+2011,2012,84,Actress in a Supporting Role,Octavia Spencer,The Help,True
+2011,2012,84,Actress in a Supporting Role,Berénice Bejo,The Artist,False
+2011,2012,84,Actress in a Supporting Role,Jessica Chastain,The Help,False
+2011,2012,84,Actress in a Supporting Role,Melissa McCarthy,Bridesmaids,False
+2011,2012,84,Actress in a Supporting Role,Janet McTeer,Albert Noobs,False
+2012,2013,85,Actor in a Leading Role,Daniel Day-Lewis,Lincoln,True
+2012,2013,85,Actor in a Leading Role,Bradley Cooper,Silver Linings Playbook,False
+2012,2013,85,Actor in a Leading Role,John Hawkes,The Sessions,False
+2012,2013,85,Actor in a Leading Role,Hugh Jackman,Les Misérables,False
+2012,2013,85,Actor in a Leading Role,Denzel Washington,Flight,False
+2012,2013,85,Actress in a Leading Role,Jennifer Lawrence,Siver Linings Playbook,True
+2012,2013,85,Actress in a Leading Role,Jessica Chastain,Zero Dark Thirty,False
+2012,2013,85,Actress in a Leading Role,Marion Cotillard,Rust and Bone,False
+2012,2013,85,Actress in a Leading Role,Helen Mirren,Hitchcock,False
+2012,2013,85,Actress in a Leading Role,Naomi Watts,The Impossible,False
+2012,2013,85,Actor in a Supporting Role,Tommy Lee Jones,Lincoln,True
+2012,2013,85,Actor in a Supporting Role,Alan Arkin,Argo,False
+2012,2013,85,Actor in a Supporting Role,Javier Bardem,Skyfall,False
+2012,2013,85,Actor in a Supporting Role,Robert De Niro,Silver Linings Playbook,False
+2012,2013,85,Actor in a Supporting Role,Philip Seymour Hoffman,The Master,False
+2012,2013,85,Actress in a Supporting Role,Anne Hathaway,Les Misérables,True
+2012,2013,85,Actress in a Supporting Role,Sally Field,Lincoln,False
+2012,2013,85,Actress in a Supporting Role,Helen Hunt,The Sessions,False
+2012,2013,85,Actress in a Supporting Role,Nicole Kidman,The Paperboy,False
+2012,2013,85,Actress in a Supporting Role,Maggie Smith,The Best Exotic Marigold Hotel,False
+2013,2014,86,Actor in a Leading Role,Matthew McConaughey,Dallas Buyers Club,True
+2013,2014,86,Actor in a Leading Role,Bruce Dern,Nebraska,False
+2013,2014,86,Actor in a Leading Role,Chiwetel Ejiofor,12 Years a Slave,False
+2013,2014,86,Actor in a Leading Role,Tom Hanks,Captain Phillips,False
+2013,2014,86,Actor in a Leading Role,Forest Whitaker,The Butler,False
+2013,2014,86,Actress in a Leading Role,Cate Blanchett,Blue Jasmine,True
+2013,2014,86,Actress in a Leading Role,Sandra Bullock,Gravity,False
+2013,2014,86,Actress in a Leading Role,Judi Dench,Philomena,False
+2013,2014,86,Actress in a Leading Role,Meryl Streep,August: Osage County,False
+2013,2014,86,Actress in a Leading Role,Emma Thompson,Saving Mr. Banks,False
+2013,2014,86,Actor in a Supporting Role,Jared Leto,Dallas Buyers Club,True
+2013,2014,86,Actor in a Supporting Role,Barkhad Abdi,Captain Phillips,False
+2013,2014,86,Actor in a Supporting Role,Daniel Brühl,Rush,False
+2013,2014,86,Actor in a Supporting Role,Michael Fassbender,12 Years a Slave,False
+2013,2014,86,Actor in a Supporting Role,James Gandolfini,Enough Said,False
+2013,2014,86,Actress in a Supporting Role,Lupita Nyong'o,12 Years a Slave,True
+2013,2014,86,Actress in a Supporting Role,Jennifer Lawrence,American Hustle,False
+2013,2014,86,Actress in a Supporting Role,Julia Roberts,August: Osage County,False
+2013,2014,86,Actress in a Supporting Role,June Squibb,Nebraska,False
+2013,2014,86,Actress in a Supporting Role,Oprah Winfrey,The Butler,False
+2014,2015,87,Actor in a Leading Role,Eddie Remayne,The Theory of Everything,True
+2014,2015,87,Actor in a Leading Role,Steve Carell,Foxcatcher,False
+2014,2015,87,Actor in a Leading Role,Benedict Cumberbatch,The Imitation Game,False
+2014,2015,87,Actor in a Leading Role,Jake Gyllenhaal,Nightcrawler,False
+2014,2015,87,Actor in a Leading Role,Michael Keaton,Birdman,False
+2014,2015,87,Actress in a Leading Role,Julianne Moore,Still Alice,True
+2014,2015,87,Actress in a Leading Role,Jennifer Aniston,Cake,False
+2014,2015,87,Actress in a Leading Role,Felicity Jones,The Theory of Everything,False
+2014,2015,87,Actress in a Leading Role,Rosamund Pike,Gone Girl,False
+2014,2015,87,Actress in a Leading Role,Reese Whiterspoon,Wild,False
+2014,2015,87,Actor in a Supporting Role,J. K. Simmons,Whiplash,True
+2014,2015,87,Actor in a Supporting Role,Robert Duvall,The Judge,False
+2014,2015,87,Actor in a Supporting Role,Ethan Hawke,Boyhood,False
+2014,2015,87,Actor in a Supporting Role,Edward Norton,Birdman,False
+2014,2015,87,Actor in a Supporting Role,Mark Ruffalo,Foxcatcher,False
+2014,2015,87,Actress in a Supporting Role,Patricia Arquette,Boyhood,True
+2014,2015,87,Actress in a Supporting Role,Keira Knightley,The Imitation Game,False
+2014,2015,87,Actress in a Supporting Role,Emma Stone,Bridman,False
+2014,2015,87,Actress in a Supporting Role,Meryl Streep,Into the Woods,False
+2014,2015,87,Actress in a Supporting Role,Naomi Watts,St. Vincent,False
+2015,2016,88,Actor in a Leading Role,Leonardo DiCaprio,The Revenant,True
+2015,2016,88,Actor in a Leading Role,Bryan Cranston,Trumbo,False
+2015,2016,88,Actor in a Leading Role,Johnny Depp,BLack Mass,False
+2015,2016,88,Actor in a Leading Role,Michael Fassbender,Steve Jobs,False
+2015,2016,88,Actor in a Leading Role,Eddie Redmayne,The Danish Girl,False
+2015,2016,88,Actress in a Leading Role,Brie Larson,Room,True
+2015,2016,88,Actress in a Leading Role,Cate Blanchett,Carol,False
+2015,2016,88,Actress in a Leading Role,Helen Mirren,Woman in Gold,False
+2015,2016,88,Actress in a Leading Role,Saoirse Ronan,Brooklyn,False
+2015,2016,88,Actress in a Leading Role,Sarah Silverman,I Smile Back,False
+2015,2016,88,Actor in a Supporting Role,Idris Elba,Beasts of No Nation,True
+2015,2016,88,Actor in a Supporting Role,Christian Bale,The Big Short,False
+2015,2016,88,Actor in a Supporting Role,Mark Rylance,Bridge of Spies,False
+2015,2016,88,Actor in a Supporting Role,Michael Shannon,99 Homes,False
+2015,2016,88,Actor in a Supporting Role,Jacob Tremblay,Room,False
+2015,2016,88,Actress in a Supporting Role,Alicia Vikander,The Danish Girl,True
+2015,2016,88,Actress in a Supporting Role,Rooney Mara,Carol,False
+2015,2016,88,Actress in a Supporting Role,Rachel McAdams,Spotlight,False
+2015,2016,88,Actress in a Supporting Role,Helen Mirren,Trumbo,False
+2015,2016,88,Actress in a Supporting Role,Kate Winslet,Steve Jobs,False
+2016,2017,89,Actor in a Leading Role,Denzel Washington,Fences,True
+2016,2017,89,Actor in a Leading Role,Casey Affleck,Manchester by the Sea,False
+2016,2017,89,Actor in a Leading Role,Andrew Garfield,Hacksaw Ridge,False
+2016,2017,89,Actor in a Leading Role,Ryan Gosling,La La Land,False
+2016,2017,89,Actor in a Leading Role,Viggo Mortensen,Captain Fantastic,False
+2016,2017,89,Actress in a Leading Role,Emma Stone,La La Land,True
+2016,2017,89,Actress in a Leading Role,Amy Adams,Arrival,False
+2016,2017,89,Actress in a Leading Role,Emily Blunt,The Girl on the Train,False
+2016,2017,89,Actress in a Leading Role,Natalie Portman,Jackie,False
+2016,2017,89,Actress in a Leading Role,Meryl Streep,Florence Foster Jenkins,False
+2016,2017,89,Actor in a Supporting Role,Mahershala Ali,Moonlight,True
+2016,2017,89,Actor in a Supporting Role,Jeff Bridges,Hell or High Water,False
+2016,2017,89,Actor in a Supporting Role,Hugh Grant,Florence Foster Jenkins,False
+2016,2017,89,Actor in a Supporting Role,Lucas Hedges,Manchester by the Sea,False
+2016,2017,89,Actor in a Supporting Role,Dev Patel,Lion,False
+2016,2017,89,Actress in a Supporting Role,Viola Davis,Fences,True
+2016,2017,89,Actress in a Supporting Role,Naomi Harris,Moonlight,False
+2016,2017,89,Actress in a Supporting Role,Nicole Kidman,Lion,False
+2016,2017,89,Actress in a Supporting Role,Octavia Spencer,Hidden Figures,False
+2016,2017,89,Actress in a Supporting Role,Michelle Williams,Manchester by the Sea,False
+2017,2018,90,Actor in a Leading Role,Gary Oldman,Darkest Hour,True
+2017,2018,90,Actor in a Leading Role,Timothée Chalamet,Call Me by Your Name,False
+2017,2018,90,Actor in a Leading Role,James Franco,The Disaster Artist,False
+2017,2018,90,Actor in a Leading Role,Daniel Kaluuya,Get Out,False
+2017,2018,90,Actor in a Leading Role,Denzel Washington,"Roman J. Israel, Esq.",False
+2017,2018,90,Actress in a Leading Role,Frances McDormand,"Three Billboards Outside Ebbing, Missouri",True
+2017,2018,90,Actress in a Leading Role,Judi Dench,Victoria & Abdul,False
+2017,2018,90,Actress in a Leading Role,Sally Hawkins,The Shape of Water,False
+2017,2018,90,Actress in a Leading Role,Margot Robbie,"I, Tonya",False
+2017,2018,90,Actress in a Leading Role,Saoirse Ronan,Lady Bird,False
+2017,2018,90,Actor in a Supporting Role,Sam Rockwell,"Three Billboards Outside Ebbing, Missouri",True
+2017,2018,90,Actor in a Supporting Role,Steve Carrell,Battle of the Sexes,False
+2017,2018,90,Actor in a Supporting Role,Willem Dafoe,The Florida Project,False
+2017,2018,90,Actor in a Supporting Role,Woody Harrelson,"Three Billboards Outside Ebbing, Missouri",False
+2017,2018,90,Actor in a Supporting Role,Richard Jenkins,The Shape of Water,False
+2017,2018,90,Actress in a Supporting Role,Allison Janney,"I, Tonya",True
+2017,2018,90,Actress in a Supporting Role,Mary J. Blige,Mudbound,False
+2017,2018,90,Actress in a Supporting Role,Hong Chau,Downsizing,False
+2017,2018,90,Actress in a Supporting Role,Holly Hunter,The Big Sick,False
+2017,2018,90,Actress in a Supporting Role,Laurie Metcalf,Lady Bird,False
+2018,2019,91,Actor in a Leading Role,Rami Malek,Bohemian Rhapsody,True
+2018,2019,91,Actor in a Leading Role,Christian Bale,Vice,False
+2018,2019,91,Actor in a Leading Role,Bradley Cooper,A Star Is Born,False
+2018,2019,91,Actor in a Leading Role,Viggo Mortensen,Green Book,False
+2018,2019,91,Actor in a Leading Role,John David Washington,BlacKkKlansman,False
+2018,2019,91,Actress in a Leading Role,Glenn Close,The Wife,True
+2018,2019,91,Actress in a Leading Role,Emily Blunt,Mary Poppins Returns,False
+2018,2019,91,Actress in a Leading Role,Olivia Colman,The Favourite,False
+2018,2019,91,Actress in a Leading Role,Lady Gaga,A Star Is Born,False
+2018,2019,91,Actress in a Leading Role,Melissa McCarthy,Can You Ever Forgive Me?,False
+2018,2019,91,Actor in a Supporting Role,Mahershala Ali,Green Book,True
+2018,2019,91,Actor in a Supporting Role,Timothée Chalamet,Beautiful Boy,False
+2018,2019,91,Actor in a Supporting Role,Adam Driver,BlacKkKlansman,False
+2018,2019,91,Actor in a Supporting Role,Sam Elliott,A Star Is Born,False
+2018,2019,91,Actor in a Supporting Role,Richard E. Grant,Can You Ever Forgive Me?,False
+2018,2019,91,Actress in a Supporting Role,Emily Blunt,A Quiet Place,True
+2018,2019,91,Actress in a Supporting Role,Amy Adams,Vice,False
+2018,2019,91,Actress in a Supporting Role,Margot Robbie,Mary Queen of Scots,False
+2018,2019,91,Actress in a Supporting Role,Emma Stone,The Favourite,False
+2018,2019,91,Actress in a Supporting Role,Rachel Weisz,The Favourite,False
+2019,2020,92,Actor in a Leading Role,Joaquin Phoenix,Joker,True
+2019,2020,92,Actor in a Leading Role,Christian Bale,Ford v Ferrari,False
+2019,2020,92,Actor in a Leading Role,Leonardo DiCaprio,Once Upon a Time in Hollywood,False
+2019,2020,92,Actor in a Leading Role,Adam Driver,Marriage Story,False
+2019,2020,92,Actor in a Leading Role,Taron Egerton,Rocketman,False
+2019,2020,92,Actress in a Leading Role,Renée Zellweger,Judy,True
+2019,2020,92,Actress in a Leading Role,Cynthia Erivo,Harriet,False
+2019,2020,92,Actress in a Leading Role,Scarlett Johansson,Marriage Story,False
+2019,2020,92,Actress in a Leading Role,Lupita Nyong'o,Us,False
+2019,2020,92,Actress in a Leading Role,Charlize Theron,Bombshell,False
+2019,2020,92,Actor in a Supporting Role,Brad Pitt,Once Upon a Time in Hollywood,True
+2019,2020,92,Actor in a Supporting Role,Jamie Foxx,Just Mercy,False
+2019,2020,92,Actor in a Supporting Role,Tom Hanks,A Beautiful Day in the Neighborhood,False
+2019,2020,92,Actor in a Supporting Role,Al Pacino,The Irishman,False
+2019,2020,92,Actor in a Supporting Role,Joe Pesci,The Irishman,False
+2019,2020,92,Actress in a Supporting Role,Laura Dern,Marriage Story,True
+2019,2020,92,Actress in a Supporting Role,Scarlett Johansson,Jojo Rabbit,False
+2019,2020,92,Actress in a Supporting Role,Nicole Kidman,Bombshell,False
+2019,2020,92,Actress in a Supporting Role,Jennifer Lopez,Hustlers,False
+2019,2020,92,Actress in a Supporting Role,Margot Robbie,Bombshell,False
+2020,2021,93,Actor in a Leading Role,Chadwick Boseman,Ma Rainey's Black Bottom,True
+2020,2021,93,Actor in a Leading Role,Riz Ahmed,Sound of Metal,False
+2020,2021,93,Actor in a Leading Role,Anthony Hopkins,The Father,False
+2020,2021,93,Actor in a Leading Role,Gary Oldman,Mank,False
+2020,2021,93,Actor in a Leading Role,Steven Yeun,Minari,False
+2020,2021,93,Actress in a Leading Role,Viola Davis,Ma Rainey's Black Bottom,True
+2020,2021,93,Actress in a Leading Role,Amy Adams,Hillbilly Elegy,False
+2020,2021,93,Actress in a Leading Role,Vanessa Kirby,Pieces of a Woman,False
+2020,2021,93,Actress in a Leading Role,Frances McDormand,Nomadland,False
+2020,2021,93,Actress in a Leading Role,Carey Mulligan,Promising Young Woman,False
+2020,2021,93,Actor in a Supporting Role,Daniel Kaluuya,Judas and the Black Messiah,True
+2020,2021,93,Actor in a Supporting Role,Sacha Baron Cohen,The Trial of the Chicago 7,False
+2020,2021,93,Actor in a Supporting Role,Chadwick Boseman,Da 5 Bloods,False
+2020,2021,93,Actor in a Supporting Role,Jared Leto,The Little Things,False
+2020,2021,93,Actor in a Supporting Role,Lesli Odom Jr.,One Night in Miami...,False
+2020,2021,93,Actress in a Supporting Role,Yuh-Jung Youn,Minari,True
+2020,2021,93,Actress in a Supporting Role,Maria Bakalova,Borat Subsequent Moviefilm,False
+2020,2021,93,Actress in a Supporting Role,Glenn Close,Hillbilly Elegy,False
+2020,2021,93,Actress in a Supporting Role,Olivia Colman,The Father,False
+2020,2021,93,Actress in a Supporting Role,Helena Zengel,News of the World,False
+2021,2022,94,Actor in a Leading Role,Will Smith,King Richard,True
+2021,2022,94,Actor in a Leading Role,Javier Bardem,Being the Ricardos,False
+2021,2022,94,Actor in a Leading Role,Benedict Cumberbatch,The Power of the Dog,False
+2021,2022,94,Actor in a Leading Role,Andrew Garfiled,"tick, tick...BOOM!",False
+2021,2022,94,Actor in a Leading Role,Denzel Washington,The Tragedy of Macbeth,False
+2021,2022,94,Actress in a Leading Role,Jessica Chastain,The Eyes of Tammy Faye,True
+2021,2022,94,Actress in a Leading Role,Olivia Colman,The Lost Daughter,False
+2021,2022,94,Actress in a Leading Role,Lady Gaga,House of Gucci,False
+2021,2022,94,Actress in a Leading Role,Jennifer Hudson,Respect,False
+2021,2022,94,Actress in a Leading Role,Nicole Kidman,Being the Ricardos,False
+2021,2022,94,Actor in a Supporting Role,Troy Kotsur,CODA,True
+2021,2022,94,Actor in a Supporting Role,Ben Affleck,The Tender Bar,False
+2021,2022,94,Actor in a Supporting Role,Bradley Cooper,Licorice Pizza,False
+2021,2022,94,Actor in a Supporting Role,Jared Leto,House of Gucci,False
+2021,2022,94,Actor in a Supporting Role,Kodi Smit-McPhee,The Power of the Dog,False
+2021,2022,94,Actress in a Supporting Role,Ariana DeBose,West Side Story,True
+2021,2022,94,Actress in a Supporting Role,Caitríona Balfe,Belfast,False
+2021,2022,94,Actress in a Supporting Role,Cate Blanchett,Nightmare Alley,False
+2021,2022,94,Actress in a Supporting Role,Kirsten Dunst,The Power of the Dog,False
+2021,2022,94,Actress in a Supporting Role,Ruth Negga,Passing,False
+2022,2023,95,Actor in a Leading Role,Brendan Fraser,The Whale,True
+2022,2023,95,Actor in a Leading Role,Austin Butler,Elvis,False
+2022,2023,95,Actor in a Leading Role,Colin Farrell,The Banshees of Inisherin,False
+2022,2023,95,Actor in a Leading Role,Bill Nighy,Living,False
+2022,2023,95,Actor in a Leading Role,Adam Sandler,Hustle,False
+2022,2023,95,Actress in a Leading Role,Michelle Yeoh,Everything Everywhere All at Once,True
+2022,2023,95,Actress in a Leading Role,Cate Blanchett,Tár,False
+2022,2023,95,Actress in a Leading Role,Viola Davis,The Woman King,False
+2022,2023,95,Actress in a Leading Role,Ana de Armas,Blonde,False
+2022,2023,95,Actress in a Leading Role,Danielle Deadwyler,Till,False
+2022,2023,95,Actor in a Supporting Role,Ke Huy Quan,Everything Everywhere All at Once,True
+2022,2023,95,Actor in a Supporting Role,Paul Dano,The Fabelmans,False
+2022,2023,95,Actor in a Supporting Role,Brendan Gleeson,The Banshees of Inisherin,False
+2022,2023,95,Actor in a Supporting Role,Barry Keoghan,The Banshees of Inisherin,False
+2022,2023,95,Actor in a Supporting Role,Eddie Redmayne,The Good Nurse,False
+2022,2023,95,Actress in a Supporting Role,Jamie Lee Curtis,Everything Everywhere All at Once,True
+2022,2023,95,Actress in a Supporting Role,Angela Bassett,Black Panther: Wakanda Forever,False
+2022,2023,95,Actress in a Supporting Role,Hong Chau,The Whale,False
+2022,2023,95,Actress in a Supporting Role,Kerry Condon,The Banshees of Inisherin,False
+2022,2023,95,Actress in a Supporting Role,Stephanie Hsu,Everything Everywhere All at Once,False

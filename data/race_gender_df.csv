@@ -1,0 +1,942 @@
+person,race,gender
+Abigail Breslin,White,Female
+Adam Driver,White,Male
+Adam McKay,White,Male
+Adriana Barraza,Hispanic,Female
+Adrien Brody,White,Male
+Al Pacino,White,Male
+Alan Alda,White,Male
+Alan Arkin,White,Male
+Alec Baldwin,White,Male
+Alejandro G. Iñárritu,Hispanic,Male
+Alexander Payne,White,Male
+Alicia Vikander,White,Female
+Allison Janney,White,Female
+Amanda Seyfried,White,Female
+Amy Adams,White,Female
+Amy Ryan,White,Female
+Ana de Armas,Hispanic,Female
+Andra Day,Black,Female
+Andrea Riseborough,White,Female
+Andrew Garfield,White,Male
+Ang Lee,Asian,Male
+Angela Bassett,Black,Female
+Angelina Jolie,White,Female
+Anna Kendrick,White,Female
+Anne Hathaway,White,Female
+Annette Bening,White,Female
+Anthony Hopkins,White,Male
+Antonio Banderas,White,Male
+Aunjanue Ellis,Black,Female
+Austin Butler,White,Male
+Barkhad Abdi,Black,Male
+Barry Jenkins,Black,Male
+Barry Keoghan,White,Male
+Benedict Cumberbatch,White,Male
+Benh Zeitlin,White,Male
+Benicio Del Toro,Hispanic,Male
+Bennett Miller,White,Male
+Bill Murray,White,Male
+Bill Nighy,White,Male
+Bong Joon Ho,Asian,Male
+Brad Pitt,White,Male
+Bradley Cooper,White,Male
+Brendan Fraser,White,Male
+Brendan Gleeson,White,Male
+Brian Tyree Henry,Black,Male
+Brie Larson,White,Female
+Bruce Dern,White,Male
+Bryan Cranston,White,Male
+Bérénice Bejo,White,Female
+Carey Mulligan,White,Female
+Casey Affleck,White,Male
+Catalina Sandino Moreno,Hispanic,Female
+Cate Blanchett,White,Female
+Catherine Zeta-Jones,White,Female
+Chadwick Boseman,Black,Male
+Charlize Theron,White,Female
+Charlotte Rampling,White,Female
+Chiwetel Ejiofor,Black,Male
+Chloé Zhao,Asian,Female
+Chris Cooper,White,Male
+Christian Bale,White,Male
+Christoph Waltz,White,Male
+Christopher Nolan,White,Male
+Christopher Plummer,White,Male
+Christopher Walken,White,Male
+Ciarán Hinds,White,Male
+Clint Eastwood,White,Male
+Clive Owen,White,Male
+Colin Farrell,White,Male
+Colin Firth,White,Male
+Cynthia Erivo,Black,Female
+Damien Chazelle,White,Male
+Daniel Day-Lewis,White,Male
+Daniel Kaluuya,Black,Male
+"Daniel Kwan, Daniel Scheinert",A - W,Male
+Danny Boyle,White,Male
+Darren Aronofsky,White,Male
+David Fincher,White,Male
+David Lynch,White,Male
+David O. Russell,White,Male
+David Strathairn,White,Male
+Demián Bichir,Middle Eastern,Male
+Denis Villeneuve,White,Male
+Denzel Washington,Black,Male
+Dev Patel,Indian,Male
+Diane Keaton,White,Female
+Diane Lane,White,Female
+Djimon Hounsou,Black,Male
+Don Cheadle,Black,Male
+Ed Harris,White,Male
+Eddie Murphy,Black,Male
+Eddie Redmayne,White,Male
+Edward Norton,White,Male
+Ellen Page,White,Female
+Emerald Fennell,White,Female
+Emma Stone,White,Female
+Emmanuelle Riva,White,Female
+Ethan Hawke,White,Male
+Felicity Huffman,White,Female
+Felicity Jones,White,Female
+Fernando Meirelles,White,Male
+Florence Pugh,White,Female
+Forest Whitaker,Black,Male
+Frances McDormand,White,Female
+Frank Langella,White,Male
+Gabourey Sidibe,Black,Female
+Gary Oldman,White,Male
+Geoffrey Rush,White,Male
+George Clooney,White,Male
+Glenn Close,White,Female
+Greta Gerwig,White,Female
+Gus Van Sant,White,Male
+Hailee Steinfeld,White,Female
+Hal Holbrook,White,Male
+Heath Ledger,White,Male
+Helen Hunt,White,Female
+Helen Mirren,White,Female
+Helena Bonham Carter,White,Female
+Hilary Swank,White,Female
+Holly Hunter,White,Female
+Hong Chau,Asian,Female
+Hugh Jackman,White,Male
+Ian McKellen,White,Male
+Imelda Staunton,White,Female
+Isabelle Huppert,White,Female
+J.K. Simmons,White,Male
+Jack Nicholson,White,Male
+Jacki Weaver,White,Female
+Jackie Earle Haley,White,Male
+Jake Gyllenhaal,White,Male
+James Cameron,White,Male
+James Franco,White,Male
+Jamie Foxx,Black,Male
+Jamie Lee Curtis,White,Female
+Jane Campion,White,Female
+Janet McTeer,White,Female
+Jared Leto,White,Male
+Jason Reitman,White,Male
+Javier Bardem,Hispanic,Male
+Jean Dujardin,White,Male
+Jeff Bridges,White,Male
+Jennifer Connelly,White,Female
+Jennifer Hudson,Black,Female
+Jennifer Jason Leigh,White,Female
+Jennifer Lawrence,White,Female
+Jeremy Renner,White,Male
+Jesse Eisenberg,White,Male
+Jesse Plemons,White,Male
+Jessica Chastain,White,Female
+Jessie Buckley,White,Female
+Jim Broadbent,White,Male
+Joaquin Phoenix,White,Male
+Joe Pesci,White,Male
+"Ethan Coen, Joel Coen",White,Male
+John C. Reilly,White,Male
+John Hawkes,White,Male
+Johnny Depp,White,Male
+Jon Voight,White,Male
+Jonah Hill,White,Male
+Jonathan Pryce,White,Male
+Jordan Peele,Black,Male
+Josh Brolin,White,Male
+Judd Hirsch,White,Male
+Jude Law,White,Male
+Judi Dench,White,Female
+Julia Roberts,White,Female
+Julian Schnabel,White,Male
+Julianne Moore,White,Female
+Julie Christie,White,Female
+June Squibb,White,Female
+Kate Winslet,White,Female
+Kathryn Bigelow,White,Female
+Kathy Bates,White,Female
+Ke Huy Quan,Asian,Male
+Keira Knightley,White,Female
+Ken Watanabe,Asian,Male
+Kenneth Branagh,White,Male
+Kenneth Lonergan,White,Male
+Kerry Condon,White,Female
+Kirsten Dunst,White,Female
+Kodi Smit-McPhee,White,Male
+Kristen Stewart,White,Female
+Lady Gaga,White,Female
+Lakeith Stanfield,Black,Male
+Laura Dern,White,Female
+Laura Linney,White,Female
+Laurie Metcalf,White,Female
+Lee Daniels,Black,Male
+Lee Isaac Chung,Asian,Male
+Lenny Abrahamson,White,Male
+Leonardo DiCaprio,White,Male
+Lesley Manville,White,Female
+Lucas Hedges,White,Male
+Lupita Nyong'o,Black,Female
+Maggie Gyllenhaal,White,Female
+Maggie Smith,White,Female
+Mahershala Ali,Black,Male
+Marcia Gay Harden,White,Female
+Margot Robbie,White,Female
+Maria Bakalova,White,Female
+Marina de Tavira,Hispanic,Female
+Marion Cotillard,White,Female
+Marisa Tomei,White,Female
+Mark Ruffalo,White,Male
+Mark Rylance,White,Male
+Mark Wahlberg,White,Male
+Martin McDonagh,White,Male
+Martin Scorsese,White,Male
+Mary J. Blige,Black,Female
+Matt Damon,White,Male
+Matt Dillon,White,Male
+Matthew McConaughey,White,Male
+Max von Sydow,White,Male
+Mel Gibson,White,Male
+Melissa Leo,White,Female
+Melissa McCarthy,White,Female
+Meryl Streep,White,Female
+Michael Caine,White,Male
+Michael Fassbender,White,Male
+Michael Haneke,White,Male
+Michael Keaton,White,Male
+Michael Shannon,White,Male
+Michel Hazanavicius,White,Male
+Michelle Williams,White,Female
+Michelle Yeoh,Asian,Female
+Mickey Rourke,White,Male
+Mike Leigh,White,Male
+Mo'Nique,Black,Female
+Morgan Freeman,Black,Male
+Morten Tyldum,White,Male
+Naomi Watts,White,Female
+Naomie Harris,Black,Female
+Natalie Portman,White,Female
+Nick Nolte,White,Male
+Nicolas Cage,White,Male
+Nicole Kidman,White,Female
+Octavia Spencer,Black,Female
+Olivia Colman,White,Female
+Patricia Arquette,White,Female
+Patricia Clarkson,White,Female
+Paul Giamatti,White,Male
+Paul Greengrass,White,Male
+Paul Haggis,White,Male
+Paul Mescal,White,Male
+Paul Newman,White,Male
+Paul Raci,White,Male
+Paul Thomas Anderson,White,Male
+Pawel Pawlikowski,White,Male
+Pedro Almodóvar,White,Male
+Penélope Cruz,White,Female
+Peter Jackson,White,Male
+Peter O'Toole,White,Male
+Peter Weir,White,Male
+Philip Seymour Hoffman,White,Male
+Queen Latifah,Black,Female
+Quentin Tarantino,White,Male
+Quvenzhané Wallis,Black,Female
+Rachel McAdams,White,Female
+Rachel Weisz,White,Female
+Rami Malek,Middle Eastern,Male
+Reese Witherspoon,White,Female
+Regina King,Black,Female
+Renée Zellweger,White,Female
+Richard E. Grant,White,Male
+Richard Jenkins,White,Male
+Richard Linklater,White,Male
+Ridley Scott,White,Male
+Rinko Kikuchi,Asian,Female
+Riz Ahmed,Middle Eastern,Male
+Rob Marshall,White,Male
+Robert Altman,White,Male
+Robert De Niro,White,Male
+Robert Downey Jr.,White,Male
+Robert Duvall,White,Male
+Roman Polanski,White,Male
+Ron Howard,White,Male
+Rooney Mara,White,Female
+Rosamund Pike,White,Female
+Ruben Östlund,White,Male
+Ruby Dee,Black,Female
+Russell Crowe,White,Male
+Ryan Gosling,White,Male
+Ryusuke Hamaguchi,Asian,Male
+Sacha Baron Cohen,Middle Eastern,Male
+Sally Field,White,Female
+Sally Hawkins,White,Female
+Salma Hayek,Hispanic,Female
+Sam Elliott,White,Male
+Sam Mendes,White,Male
+Sam Rockwell,White,Male
+Samantha Morton,White,Female
+Sandra Bullock,White,Female
+Saoirse Ronan,White,Female
+Scarlett Johansson,White,Female
+Sean Penn,White,Male
+Shohreh Aghdashloo,Middle Eastern,Female
+Sissy Spacek,White,Female
+Sofia Coppola,White,Female
+Spike Lee,Black,Male
+Stanley Tucci,White,Male
+Stephanie Hsu,Asian,Female
+Stephen Daldry,White,Male
+Stephen Frears,White,Male
+Steve Carell,White,Male
+Steve McQueen,White,Male
+Steven Spielberg,White,Male
+Steven Yeun,Asian,Male
+Sylvester Stallone,White,Male
+Taraji P. Henson,Black,Female
+Taylor Hackford,White,Male
+Terrence Howard,Black,Male
+Terrence Malick,White,Male
+Thomas Haden Church,White,Male
+Thomas Vinterberg,White,Male
+Tilda Swinton,White,Female
+Tim Robbins,White,Male
+Timothée Chalamet,White,Male
+Todd Field,White,Male
+Todd Phillips,White,Male
+Tom Hanks,White,Male
+Tom Hardy,White,Male
+Tom Hooper,White,Male
+Tom McCarthy,White,Male
+Tom Wilkinson,White,Male
+Tommy Lee Jones,White,Male
+Tony Gilroy,White,Male
+Troy Kotsur,White,Male
+Vanessa Kirby,White,Female
+Vera Farmiga,White,Female
+Viggo Mortensen,White,Male
+Viola Davis,Black,Female
+Virginia Madsen,White,Female
+Will Smith,Black,Male
+Willem Dafoe,White,Male
+William Hurt,White,Male
+Woody Allen,White,Male
+Woody Harrelson,White,Male
+Yalitza Aparicio,Hispanic,Female
+Yorgos Lanthimos,White,Male
+Yuh-Jung Youn,Asian,Female
+Aron Warner,White,Male
+Chris Wedge,White,Male
+Chris Sanders,White,Male
+Jeffrey Katzenberg,White,Male
+Hayao Miyazaki,Asian,Male
+Ron Clements,White,Male
+Andrew Stanton,White,Male
+Sylvain Chomet,White,Male
+Brad Bird,White,Male
+Bill Damaschke,White,Male
+Andrew Adamson,White,Male
+John Lasseter,White,Male
+Gil Kenan,White,Male
+Henry Selick,White,Male
+Tomm Moore,White,Male
+Pete Docter,White,Male
+Lee Unkrich,White,Male
+Jennifer Yuh Nelson,Asian,Female
+Chris Miller,White,Male
+Gore Verbinski,White,Male
+Tim Burton,White,Male
+Peter Lord,White,Male
+Rich Moore,White,Male
+Alê Abreu,Hispanic,Male
+"Aaron Blaise, Robert Walker",White,Male
+"Alain Gagnol, Jean-Loup Felicioli",White,Male
+"Ash Brannon, Chris Buck",White,Male
+"Benjamin Renner, Didier Brunner",White,Male
+"Chris Sanders, Dean DeBlois",White,Male
+"Byron Howard, Chris Williams",White,Male
+"Chris Williams, Jed Schlanger",White,Male
+"Claude Barras, Max Karli",White,Male
+"Dan Scanlon, Kori Rae",White,F - M
+"Bonnie Arnold, Dean DeBlois",White,F - M
+"Domee Shi, Lindsey Collins",A - W,Female
+"Andrea Warren, Enrico Casarosa",White,F - M
+"Fernando Trueba, Javier Mariscal",White,Male
+"Hayao Miyazaki, Toshio Suzuki",Asian,Male
+"Hiromasa Yonebayashi, Yoshiaki Nishimura",Asian,Male
+"Isao Takahata, Yoshiaki Nishimura",Asian,Male
+"Joel Crawford, Mark Swift",White,Male
+"John Musker, Ron Clements",White,Male
+"John Stevenson, Mark Osborne",White,Male
+"Jérémy Clapin, Marc du Pontavice",White,Male
+"Darla K. Anderson, Lee Unkrich",White,F - M
+"Mamoru Hosoda, Yuichiro Saito",Asian,Male
+"Marjane Satrapi, Vincent Paronnaud",White,F - M
+"Brenda Chapman, Mark Andrews",White,F - M
+"Mark Burton, Richard Starzak",White,Male
+"Michael Dudok de Wit, Toshio Suzuki",A - W,Male
+"Mike Johnson, Tim Burton",White,Male
+"Nick Park, Steve Box",White,Male
+"Anthony Leo, Nora Twomey",White,F - M
+"Dana Murray, Pete Docter",White,F - M
+"Jonas Rivera, Pete Docter",H - W,Male
+George Miller,White,Male
+"Ramsey Naito, Tom McGrath",A - W,F - M
+"Paul Young, Tomm Moore",White,Male
+"Arianne Sutner, Travis Knight",White,F - M
+Wes Anderson,White,Male
+Adrien Morot,White,Male
+"Adrien Morot, Annemarie Bradley, Judy Chin",A - W,F - M
+"Adruitha Lee, Robin Mathews",White,Female
+"Aldo Signoretti, Vittorio Sodano",White,Male
+"Alessandro Bertolazzi, Christopher Nelson, Giorgio Gregorini",White,Male
+Arjen Tuiten,White,Male
+"Barney Burman, Joel Harlow, Mindy Hall",White,F - M
+"Bill Corso, Dennis Liddiard",White,Male
+"Camille Friend, Joel Harlow",B - W,F - M
+"Daniel Phillips, Lou Sheppard",White,F - M
+"Dave Elsey, Nikki Gooley",White,F - M
+"David Leroy Anderson, Lance Anderson",White,Male
+"David Martí, Montse Ribé",White,F - M
+"Didier Lavergne, Jan Archibald",White,F - M
+"Donald Mowat, Eva von Bahr, Love Larson",White,F - M
+"Edouard F. Henriques, Gregory Funk, Yolanda Toussieng",White,F - M
+"Edouard Henriques III, Yolanda Toussieng",White,F - M
+"David White, Elizabeth Yianni-Georgiou",White,F - M
+"Eryn Krueger Mekash, Matthew Mungle, Patricia Dehaney",White,F - M
+"Eva von Bahr, Love Larson",White,F - M
+"Frances Hannon, Mark Coulier",White,F - M
+"Colleen LaBaff, Gigi Williams, Kimberley Spiteri",White,Female
+Greg Cannom,White,Male
+"Colleen Callaghan, Greg Cannom",White,F - M
+"Greg Cannom, Kate Biscoe, Patricia Dehaney",White,F - M
+"Göran Lundström, Pamela Goldammer",White,F - M
+"Anna Carin Lock, Frederic Aspiras, Göran Lundström",A - W,F - M
+"Heike Merker, Linda Eisenhamerová",White,Female
+"Howard Berger, Tami Lane",White,F - M
+"Howard Berger, Martin Samuel, Peter Montagna",White,Male
+"Jenny Shircore, Jessica Brooks, Marc Pilcher",White,F - M
+Jeremy Woodhead,White,Male
+"Jo Allen, Manuel García",White,F - M
+"Gloria Pasqua-Casny, Joel Harlow",White,F - M
+"Joel Harlow, Richard Alonzo",H - W,Male
+"Conor O'Sullivan, John Caglione, Jr.",White,Male
+"Beatrice De Alba, John Jackson",White,F - M
+"Barbara Lorenz, John M. Elliott, Jr.",White,F - M
+"Jenny Shircore, Jon Henry Gordon",White,F - M
+"Anne Morgan, Kazu Hiro, Vivian Baker",A - W,F - M
+"Bill Corso, Kazuhiro Tsuji",A - W,Male
+"David Malinowski, Kazuhiro Tsuji, Lucy Sibbick",A - W,F - M
+"Christien Tinsley, Keith Vanderlaan",White,Male
+"Damian Martin, Elka Wardega, Lesley Vanderwalt",White,F - M
+"Justin Raleigh, Linda Dowds, Stephanie Ingram",White,F - M
+"Julie Dartnell, Lisa Westcott",White,Female
+"Claudia Stolze, Laura Allen, Marese Langan",White,Female
+"J. Roy Helland, Mark Coulier",White,Male
+"Dalia Colli, Francesco Pegoretti, Mark Coulier",White,F - M
+"Aldo Signoretti, Jason Baird, Mark Coulier",White,Male
+"Lynn Johnston, Martial Corneville, Matthew W. Mungle",White,F - M
+"Aldo Signoretti, Maurizio Silvi",White,Male
+"Mike Elizalde, Thom Floutz",White,Male
+"Carla Farmer, Mike Marino, Stacey Morris",B - W,F - M
+"Julia Vernon, Nadia Stacey, Naomi Donne",White,Female
+"Mike Fontaine, Mike Marino, Naomi Donne",White,F - M
+"Naomi Donne, Rebecca Cole, Tristan Versluis",White,F - M
+"Amanda Knight, Lisa Tomblin, Nick Dudman",White,F - M
+"Kay Georgiou, Nicki Ledermann",White,F - M
+"Arjen Tuiten, David White, Paul Gooch",White,Male
+"Peter Owen, Richard Taylor",White,Male
+"Peter Swords King, Rick Findlater, Tami Lane",White,F - M
+"Peter King, Richard Taylor",White,Male
+"Dave Elsey, Rick Baker",White,Male
+"Kazuhiro Tsuji, Rick Baker",A - W,Male
+"Jamika Wilson, Mia Neal, Sergio Lopez-Rivera",B - W,F - M
+"Duncan Jarman, Robert Pandini, Siân Grigg",White,F - M
+Stephen Prouty,White,Male
+"Bill Corso, Valli O'Reilly",White,F - M
+"Martin Samuel, Ve Neill",White,F - M
+"Leslie Odom, Jr.",Black,Male
+"Anthony Stacchi, Graham Annable, Travis Knight",White,Male
+"Bob Persichetti, Christopher Miller, Peter Ramsey, Phil Lord, Rodney Rothman",B - W,Male
+"Brad Bird, John Walker, Nicole Paradis Grindle",White,F - M
+"Byron Howard, Clark Spencer, Rich Moore",White,Male
+"Carlos Saldanha, Lori Forte",White,Male
+"Charlie Kaufman, Duke Johnson, Rosa Tran",White,Male
+"Chris Buck, Jennifer Lee, Peter Del Vecho",White,Male
+"Arianne Sutner, Chris Butler, Travis Knight",White,F - M
+"Chris Meledandri, Chris Renaud, Pierre Coffin",White,Male
+"Chris Sanders, Kirk DeMicco, Kristine Belson",White,F - M
+"Bonnie Arnold, Bradford Lewis, Dean DeBlois",White,F - M
+"Andrew Goldman, Caroline Kaplan, Dean Fleischer Camp, Elisabeth Holm, Paul Mezey",White,F - M
+"Carlos López Estrada, Don Hall, Osnat Shurer, Peter Del Vecho",H - W,F - M
+"Chris Williams, Don Hall, Roy Conli",White,Male
+"Dorota Kobiela, Hugh Welchman, Ivan Mactaggart",White,F - M
+"Gennie Rim, Glen Keane, Peilin Chou",A - W,F - M
+"Alex Bulkley, Gary Ungar, Guillermo del Toro, Mark Gustafson",H - W,Male
+"Byron Howard, Clark Spencer, Jared Bush, Yvett Merino",H - W,F - M
+"John Musker, Osnat Shurer, Ron Clements",White,F - M
+"Charlotte De La Gournerie, Jonas Poher Rasmussen, Monica Hellström, Signe Byrge Sørensen",White,F - M
+"Jonas Rivera, Josh Cooley, Mark Nielsen",H - W,Male
+"Christopher Miller, Kurt Albrecht, Mike Rianda, Phil Lord",White,Male
+"John Lasseter, Pete Docter",White,Male
+"Clark Spencer, Phil Johnston, Rich Moore",White,Male
+"Jinko Gotoh, Marisa Román, Sergio Pablos",White,Male
+"John A. Davis, Steve Oedekerk",White,Male
+"Paul Young, Ross Stewart, Stéphan Roelants, Tomm Moore",White,Male
+"Jeremy Dawson, Scott Rudin, Steven Rales, Wes Anderson",White,Male
+Albert Wolsky,White,Male
+Alexandra Byrne,White,Female
+Ann Roth,White,Female
+Anna B. Sheppard,White,Female
+Anna Sheppard,White,Female
+Antonella Cannarozzi,White,Female
+Arianne Phillips,White,Female
+Bina Daigeler,White,Female
+Bob Ringwood,White,Male
+Catherine Leterrier,White,Female
+Catherine Martin,White,Female
+"Angus Strathie, Catherine Martin",White,F - M
+Colleen Atwood,White,Female
+Consolata Boyle,White,Female
+Danny Glicker,White,Male
+Dien van Straalen,White,Female
+Eiko Ishioka,Asian,Female
+Gabriella Pescucci,White,Female
+Jacqueline Durran,White,Female
+Jacqueline West,White,Female
+"Jacqueline West, Robert Morgan",White,F - M
+Janet Patterson,White,Female
+Jenny Beavan,White,Female
+Joanna Johnston,White,Female
+Judianna Makovsky,White,Female
+Julie Weiss,White,Female
+Lisy Christl,White,Female
+Luis Sequeira,Hispanic,Male
+Madeline Fontaine,White,Female
+Marit Allen,White,Female
+Mark Bridges,White,Male
+Mary Zophres,White,Female
+Massimo Cantini Parrini,White,Male
+"Jacqueline Durran, Massimo Cantini Parrini",White,F - M
+Mayes C. Rubeo,Hispanic,Female
+Michael O'Connor,White,Male
+Michael Wilkinson,White,Male
+Milena Canonero,White,Female
+Monique Prudhomme,White,Female
+Ngila Dickson,White,Female
+"Ngila Dickson, Richard Taylor",White,F - M
+Paco Delgado,White,Male
+Patricia Field,Middle Eastern,Female
+Patricia Norris,White,Female
+Paul Tazewell,Black,Male
+Ruth Carter,Black,Female
+Sandy Powell,White,Female
+"Christopher Peterson, Sandy Powell",White,F - M
+Sharen Davis,Black,Female
+Shirley Kurata,Asian,Female
+Trish Summerville,White,Female
+Wendy Stites,White,Female
+William Chang Suk Ping,Asian,Male
+Yee Chung Man,Asian,Male
+"Paul Kewley, Richard Phelan, Will Becher",White,Male
+Ariana DeBose,Black,Female
+Ben Kingsley,Indian,Male
+Catherine Keener,Middle Eastern,Female
+Halle Berry,Black,Female
+Keisha Castle-Hughes,White,Female
+Ruth Negga,Black,Female
+Sophie Okonedo,Black,Female
+Jean-Pierre Jeunet,White,Male
+Petter Naess,White,Male
+Ashutosh Gowariker,Indian,Male
+Danis Tanovic,White,Male
+Juan José Campanella,Hispanic,Male
+Carlos Carrera,Hispanic,Male
+Zhang Yimou,Asian,Male
+Aki Kaurismäki,White,Male
+Caroline Link,White,Female
+Paula van der Oest,White,Female
+Denys Arcand,White,Male
+Mikael Hafström,White,Male
+Yoji Yamada,Asian,Male
+Ben Sombogaart,White,Male
+Ondrej Trojan,White,Male
+Kay Pollak,White,Male
+Christophe Barratier,White,Male
+Oliver Hirschbiegel,White,Male
+Alejandro Amenábar,Hispanic,Male
+Darrel Roodt,Black,Male
+Cristina Comencini,White,Female
+Cristian Carion,White,Male
+Hany Abu-Assad,Middle Eastern,Male
+Marc Rothemund,White,Male
+Gavin Hood,White,Male
+Bart Freundlich,White,Male
+Rachid Bouchareb,Black,Male
+Florian Henckel von Donnersmarck,White,Male
+Deepa Mehta,Indian,Female
+Joseph Cedar,Middle Eastern,Male
+Stefan Ruzowitzky,White,Male
+Andrzej Wajda,White,Male
+Serguéi Bodrov,White,Male
+Nikita Mijalkov,White,Male
+Uli Edel,White,Male
+Laurent Cantet,White,Male
+Yojiro Takita,Asian,Male
+Götz Spielmann,White,Male
+Ari Folman,Middle Eastern,Male
+"Scandar Copti, Yaron Shani",Middle Eastern,Male
+Claudia Llosa,Hispanic,Female
+Jacques Audiard,White,Male
+Susanne Bier,White,Female
+Michaël R. Roskam,White,Male
+Agnieszka Holland,White,Female
+Phillipe Falardeau,White,Male
+Asghar Farhadi,Middle Eastern,Male
+"Espen Sandberg, Joachim Ronning",White,Male
+Pablo Larraín,Hispanic,Male
+Nikolaj Arcel,White,Male
+Kim Nguyen,White,Male
+Felix Van Groeningen,White,Male
+Paolo Sorrentino,White,Male
+Rithy Panh,Asian,Male
+Andréi Sviáguintsev,White,Male
+Zaza Urushadze,Middle Eastern,Male
+Abderrahmane Sissako,Black,Male
+Damián Szifron,White,Male
+Ciro Guerra,Hispanic,Male
+Deniz Gamze Ergüven,Middle Eastern,Female
+László Nemes,White,Male
+Naji Abu Nowar,Middle Eastern,Male
+Tobias Lindholm,White,Male
+Martin Zandvliet,White,Male
+Hannes Holm,White,Male
+"Bentley Dean, Martin Butler",White,Male
+Maren Ade,White,Female
+Sebastián Lelio,White,Male
+Ziad Doueiri,Middle Eastern,Male
+Andréi Sviáguinstev,White,Male
+Ildikó Enyedi,White,Female
+Nadine Labaki,Middle Eastern,Female
+Hirokazu Koreeda,Asian,Male
+Jan Komasa,White,Male
+Tamara Kotevska,White,Female
+Ladj Ly,Black,Male
+Bong Joon-ho,Asian,Male
+Derek Tsang,Asian,Male
+Alexander Nanau,White,Male
+Kaouther Ben Hania,Middle Eastern,Female
+Jasmila Zbanic,White,Female
+Jonas Poher Rasmussen,White,Male
+Pawo Choyning Dorji,Indian,Male
+Joachim Trier,White,Male
+Edward Berger,White,Male
+Santiago Mitre,Hispanic,Male
+Lukas Dhont,White,Male
+Jerzy Skolimowski,White,Male
+Colm Bairéad,White,Male
+A.R. Rahman,Indian,Male
+Alberto Iglesias,White,Male
+Alexandre Desplat,White,Male
+Carter Burwell,White,Male
+Danny Elfman,White,Male
+Dario Marianelli,White,Male
+"Dustin O'Halloran, Hauschka",White,Male
+Elliot Goldenthal,White,Male
+Elmer Bernstein,White,Male
+Emile Mosseri,White,Male
+Ennio Morricone,White,Male
+Gabriel Yared,Middle Eastern,Male
+Gary Yershon,White,Male
+Germaine Franco,Hispanic,Female
+Gustavo Santaolalla,Hispanic,Male
+Hans Zimmer,White,Male
+Hildur Guðnadóttir,White,Female
+Howard Shore,White,Male
+James Horner,White,Male
+James Newton Howard,White,Male
+Jan A.P. Kaczmarek,White,Male
+Javier Navarrete,White,Male
+John Debney,White,Male
+John Powell,White,Male
+John Williams,White,Male
+Jonny Greenwood,White,Male
+Justin Hurwitz,White,Male
+Jóhann Jóhannsson,White,Male
+Ludovic Bource,White,Male
+Ludwig Goransson,White,Male
+Marc Shaiman,White,Male
+Marco Beltrami,White,Male
+"Buck Sanders, Marco Beltrami",White,Male
+Mica Levi,White,Male
+Michael Giacchino,White,Male
+Mychael Danna,White,Male
+Nicholas Britell,White,Male
+Philip Glass,White,Male
+Randy Newman,White,Male
+Son Lux,A - I - W,Male
+Steven Price,White,Male
+Terence Blanchard,Black,Male
+Thomas Newman,White,Male
+"Atticus Ross, Trent Reznor",White,Male
+"Atticus Ross, Jon Batiste, Trent Reznor",B - W,Male
+Volker Bertelmann,White,Male
+"Owen Pallett, William Butler",White,Male
+Guillermo del Toro,Hispanic,Male
+Alfonso Cuarón,Hispanic,Male
+"Chris Butler, Sam Fell",White,Male
+"Alan Wenkus, Andrea Berloff, Jonathan Herman, S. Leigh Savidge",White,F - M
+"Alejandro G. Iñárritu, Alexander Dinelaris, Armando Bo, Jr., Nicolás Giacobone",H - W,Male
+"Alessandro Camon, Oren Moverman",White,Male
+"Alfonso Cuarón, Carlos Cuarón",Hispanic,Male
+"Andrew Stanton, Bob Peterson, David Reynolds",White,Male
+"Andrew Stanton, Jim Reardon, Pete Docter",White,Male
+"Annie Mumolo, Kristen Wiig",White,Female
+"Brian Currie, Nick Vallelonga, Peter Farrelly",White,Male
+"Abraham Marder, Darius Marder, Derek Cianfrance",White,Male
+"Dan Futterman, E. Max Frye",White,Male
+"George Clooney, Grant Heslov",ME - W,Male
+"Ethan Coen, Joel Coen, Matt Charman",White,Male
+"Christopher Nolan, Jonathan Nolan",White,Male
+"Jim Sheridan, Kirsten Sheridan, Naomi Sheridan",White,F - M
+"Craig Borten, Melisa Wallack",White,F - M
+"Owen Wilson, Wes Anderson",White,Male
+"Eric Johnson, Keith Dorrington, Paul Tamasy, Scott Silver",White,Male
+"Roman Coppola, Wes Anderson",White,Male
+"Josh Cooley, Meg LeFauve, Pete Docter, Ronnie del Carmen",H - W,F - M
+"Josh Singer, Tom McCarthy",White,Male
+"Bob Peterson, Pete Docter, Tom McCarthy",White,Male
+"Steven Spielberg, Tony Kushner",White,Male
+"Deborah Davis, Tony McNamara",White,F - M
+"Guillermo del Toro, Vanessa Taylor",H - W,F - M
+"Keith Lucas, Kenny Lucas, Shaka King, Will Berson",B - W,Male
+"Milo Addica, Will Rokos",White,Male
+Aaron Sorkin,White,Male
+"Adam McKay, David Sirota",White,Male
+Alex Garland,White,Male
+Bob Nelson,White,Male
+"Bobby Moresco, Paul Haggis",White,Male
+"Bong Joon Ho, Han Jin Won",Asian,Male
+"Charlie Kaufman, Michel Gondry, Pierre Bismuth",White,Male
+Courtney Hunt,White,Female
+Dan Gilroy,White,Male
+David Seidler,White,Male
+Diablo Cody,White,Female
+Dustin Lance Black,White,Male
+"David O. Russell, Eric Warren Singer",White,Male
+Guillermo Arriaga,Hispanic,Male
+"Hugo Guinness, Wes Anderson",White,Male
+"Iris Yamashita, Paul Haggis",A - W,F - M
+J.C. Chandor,White,Male
+"Brad Bird, Jan Pinkava, Jim Capobianco",White,Male
+"Guillaume Laurant, Jean-Pierre Jeunet",White,Male
+"Eskil Vogt, Joachim Trier",White,Male
+John Gatins,White,Male
+John Logan,White,Male
+Julian Fellowes,Middle Eastern,Male
+"Keir Pearson, Terry George",White,Male
+"Krysty Wilson-Cairns, Sam Mendes",White,F - M
+"Emily V. Gordon, Kumail Nanjiani",I - W,F - M
+"Lisa Cholodenko, Stuart Blumberg",White,F - M
+Mark Boal,White,Male
+Michael Arndt,White,Male
+Mike Mills,White,Male
+Nancy Oliver,White,Female
+Nia Vardalos,White,Female
+Noah Baumbach,White,Male
+Paul Schrader,White,Male
+Peter Morgan,White,Male
+Rian Johnson,White,Male
+Spike Jonze,White,Male
+Stephen Gaghan,White,Male
+"Jay Cocks, Kenneth Lonergan, Steve Zaillian",White,Male
+Steven Knight,White,Male
+Tamara Jenkins,White,Female
+Taylor Sheridan,White,Male
+Todd Haynes,White,Male
+"Efthimis Filippou, Yorgos Lanthimos",White,Male
+Zach Baylin,White,Male
+"Aaron Sorkin, Stan Chervin, Steven Zaillian",White,Male
+"Adam McKay, Charles Randolph",White,Male
+Akiva Goldsman,White,Male
+"Alexander Payne, Jim Rash, Nat Faxon",White,Male
+"Alexander Payne, Jim Taylor",White,Male
+"Alfonso Cuarón, David Arata, Hawk Ostby, Mark Fergus, Timothy J. Sexton",H - W,Male
+"Allison Schroeder, Theodore Melfi",White,F - M
+"Andrew Stanton, John Lasseter, Lee Unkrich, Michael Arndt",White,Male
+"Anne Rosellini, Debra Granik",White,Female
+"Anthony Hines, Dan Mazer, Dan Swimer, Erica Rivinoja, Jena Friedman, Lee Kern, Nina Pedrad, Peter Baynham, Sacha Baron Cohen",ME - W,F - M
+"Anthony Hines, Dan Mazer, Peter Baynham, Sacha Baron Cohen, Todd Phillips",ME - W,Male
+Anthony McCarten,White,Male
+"Armando Iannucci, Jesse Armstrong, Simon Blackwell, Tony Roche",White,Male
+August Wilson,Black,Male
+"Barry Jenkins, Tarell Alvin McCraney",Black,Male
+"Beau Willimon, George Clooney, Grant Heslov",ME - W,Male
+"Benh Zeitlin, Lucy Alibar",White,F - M
+Bill Condon,White,Male
+Billy Ray,White,Male
+"Bradley Cooper, Eric Roth, Will Fetters",White,Male
+Braulio Mantovani,Hispanic,Male
+Brian Helgeland,White,Male
+"Bridget O'Connor, Peter Straughan",White,F - M
+"Charlie Kaufman, Donald Kaufman",White,Male
+"Charlie Wachtel, David Rabinowitz, Kevin Willmott, Spike Lee",B - W,Male
+Chris Terrio,White,Male
+"Chris Weitz, Paul Weitz, Peter Hedges",White,Male
+Christopher Hampton,White,Male
+"Christopher Hampton, Florian Zeller",White,Male
+"Christopher McQuarrie, Ehren Kruger, Eric Warren Singer, Justin Marks, Peter Craig",White,Male
+Dan Futterman,White,Male
+"Daniel Clowes, Terry Zwigoff",White,Male
+"Danny Boyle, Simon Beaufoy",White,Male
+David Hare,White,Male
+David Magee,White,Male
+"Dee Rees, Virgil Williams",Black,F - M
+"Denis Villeneuve, Eric Roth, Jon Spaihts",White,Male
+"Diana Ossana, Larry McMurtry",White,F - M
+Drew Goddard,White,Male
+"Edward Berger, Ian Stokell, Lesley Paterson",White,F - M
+Emma Donoghue,White,Female
+Eric Heisserer,White,Male
+"Eric Roth, Robin Swicord",White,F - M
+"Eric Roth, Tony Kushner",White,Male
+"Ethan Hawke, Julie Delpy, Kim Krizan, Richard Linklater",White,F - M
+"Ethan Hawke, Julie Delpy, Richard Linklater",White,F - M
+"Fran Walsh, Peter Jackson, Philippa Boyens",White,F - M
+Gary Ross,White,Male
+Geoffrey Fletcher,Black,Male
+Graham Moore,White,Male
+James Ivory,White,Male
+"James Mangold, Michael Green, Scott Frank",White,Male
+Jason Hall,White,Male
+"Jason Reitman, Sheldon Turner",White,Male
+"Jeff Pope, Steve Coogan",White,Male
+"Jeff Whitty, Nicole Holofcener",White,F - M
+Jeffrey Caine,White,Male
+"Joe Stillman, Roger S.H. Schulman, Ted Elliott, Terry Rossio",White,Male
+John Patrick Shanley,White,Male
+John Ridley,Black,Male
+Josh Olson,White,Male
+José Rivera,Hispanic,Male
+Kazuo Ishiguro,Asian,Male
+Kemp Powers,Black,Male
+Luke Davies,White,Male
+"Michael H. Weber, Scott Neustadter",White,Male
+"Neill Blomkamp, Terri Tatchell",White,F - M
+Nick Hornby,White,Male
+Patrick Marber,White,Male
+Phyllis Nagy,White,Female
+Ramin Bahrani,Middle Eastern,Male
+"Rob Festinger, Todd Field",White,Male
+"Robert Pulcini, Shari Springer Berman",ME - W,F - M
+Ronald Harwood,White,Male
+"Ryusuke Hamaguchi, Takamasa Oe",Asian,Male
+Sarah Polley,White,Female
+"Scott Silver, Todd Phillips",White,Male
+Simon Beaufoy,White,Male
+Siân Heder,White,Female
+Steven Zaillian,White,Male
+Taika Waititi,White,Male
+Terence Winter,White,Male
+"Todd Field, Tom Perrotta",White,Male
+Tony Kushner,White,Male
+William Monahan,White,Male
+Randy Newman,White,Male
+"Enya, Nicky Ryan, Roma Ryan",White,F - M
+Diane Warren,White,Female
+Sting,White,Male
+Paul McCartney,White,Male
+"Elliot Goldenthal, Julie Taymor",White,F - M
+Paul Simon,White,Male
+"Adam Clayton, Bono, Larry Mullen, The Edge",White,Male
+"Fred Ebb, John Kander",White,Male
+"Eminem, Jeff Bass, Luis Resto",H - W,Male
+"Benoît Charest, Sylvain Chomet",White,Male
+"Annie Lennox, Fran Walsh, Howard Shore",White,F - M
+"Annette O'Toole, Michael McKean",White,F - M
+"Elvis Costello, T Bone Burnett",White,Male
+"Adam Duritz, Charles Gillingham, Daniel Vickrey, David Bryson, David Immergluck, Jim Bogios, Matthew Malley",White,Male
+Jorge Drexler,White,Male
+"Alan Silvestri, Glen Ballard",White,Male
+"Andrew Lloyd Webber, Charles Hart",White,Male
+"Bruno Coulais, Christophe Barratier",White,Male
+"Kathleen ""Bird"" York, Michael Becker",White,F - M
+"Cedric Coleman, Jordan Houston, Paul Beauregard",Black,Male
+Dolly Parton,White,Female
+Melissa Etheridge,White,Female
+"Anne Preven, Henry Krieger, Scott Cutler",White,F - M
+"Henry Krieger, Siedah Garrett",B - W,F - M
+"Henry Krieger, Willie Reale",White,Male
+"Glen Hansard, Marketa Irglova",White,F - M
+"Alan Menken, Stephen Schwartz",White,Male
+"Charles Mack, Jamal Joseph, Tevin Thomas",White,Male
+"Peter Gabriel, Thomas Newman",White,Male
+"A.R. Rahman, Gulzar",Indian,Male
+"A.R. Rahman, Maya Arulpragasam",Indian,F - M
+"Frank Thomas, Reinhardt Wagner",White,Male
+Maury Yeston,White,Male
+"Ryan Bingham, T Bone Burnett",White,Male
+"Hillary Lindsey, Tom Douglas, Troy Verges",White,F - M
+"Alan Menken, Glenn Slater",White,Male
+"A.R. Rahman, Dido, Rollo Armstrong",I - W,F - M
+Bret McKenzie,White,Male
+"Carlinhos Brown, Sergio Mendes, Siedah Garrett",Hispanic,Male
+J. Ralph,White,Male
+"Seth MacFarlane, Walter Murphy",White,Male
+"Bombay Jayashri, Mychael Danna",I - W,F - M
+"Adele Adkins, Paul Epworth",White,F - M
+"Alain Boublil, Claude-Michel Schönberg, Herbert Kretzmer",White,Male
+"Bruce Broughton, Dennis Spiegel",White,Male
+Pharrell Williams,Black,Male
+"Kristen Anderson-Lopez, Robert Lopez",White,F - M
+"Karen O, Spike Jonze",A - W,F - M
+"Adam Clayton, Dave Evans, Larry Mullen, Paul Hewson",White,Male
+Shawn Patterson,White,Male
+"John Stephens, Lonnie Lynn",Black,Male
+"Glen Campbell, Julian Raymond",White,Male
+"Danielle Brisebois, Gregg Alexander",White,F - M
+"Ahmad Balshe, Jason Quenneville, Stephan Moccio, The Weeknd",ME - B,Male
+"Anohni, J. Ralph",White,F - M
+David Lang,White,Male
+"Diane Warren, Lady Gaga",White,Female
+"Jimmy Napes, Sam Smith",White,Male
+"Benj Pasek, Justin Hurwitz, Justin Paul",White,Male
+"Justin Timberlake, Karl Johan Schuster, Max Martin",White,Male
+"J. Ralph, Sting",White,Male
+Lin-Manuel Miranda,Hispanic,Male
+"Mary J. Blige, Raphael Saadiq, Taura Stinson",Black,F - M
+Sufjan Stevens,White,Male
+"Diane Warren, Lonnie R. Lynn",B - W,F - M
+"Benj Pasek, Justin Paul",White,Male
+"Anthony ""Top Dawg"" Tiffith, Kendrick Lamar, Mark ""Sounwave"" Spears, SZA",Black,F - M
+"Marc Shaiman, Scott Wittman",White,Male
+"Andrew Wyatt, Anthony Rossomando, Lady Gaga, Mark Ronson",White,F - M
+"David Rawlings, Gillian Welch",White,F - M
+"Bernie Taupin, Elton John",White,Male
+"Cynthia Erivo, Joshuah Brian Campbell",Black,F - M
+"Dernst Emile II, H.E.R., Tiara Thomas",Black,F - M
+"Celeste Waite, Daniel Pemberton",B - W,F - M
+"Fat Max Gsus, Rickard Göransson, Savan Kotecha",White,Male
+"Diane Warren, Laura Pausini",White,Female
+"Jr., Leslie Odom, Sam Ashworth",B - W,Male
+"Beyoncé Knowles-Carter, DIXSON",Black,F - M
+Van Morrison,White,Male
+"Billie Eilish, Finneas O'Connell",White,F - M
+"BloodPop, Lady Gaga",White,F - M
+"Ludwig Goransson, Rihanna, Ryan Coogler, Tems",B - W,F - M
+"Chandrabose, M.M. Keeravaani",Indian,Male
+"David Byrne, Mitski, Ryan Lott",A - W,F - M
