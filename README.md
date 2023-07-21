@@ -24,3 +24,6 @@ The files in the data folder are:
 
 ## Execution
 The Python file doesn't contain a main, it needs to be run through Jupyter Notebook.
+
+## Goal
+The goal of this project is to predict the winners of the Academy Awards based on other awards that are awarded before this as well as the characteristics of the nominees. Right now it works for the 2023 nominations but it is designed to be easily modified to work for other future ceremonies just by adding the new nominations and changing a few parameters.
